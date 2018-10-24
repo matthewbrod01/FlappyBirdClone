@@ -1,4 +1,14 @@
+## FlappyBirdClone
+
 Learning Unity by creating a flappy bird clone
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented functionalities:
+
+<img src='https://i.imgur.com/u5g3hek.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
