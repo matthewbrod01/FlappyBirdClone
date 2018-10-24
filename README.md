@@ -10,6 +10,17 @@ Here's a walkthrough of implemented functionalities:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## User Stories
+
+The following **required** functionalities are complete:
+
+- [x] Add gravity physics
+- [x] Add jump functionality to bird
+- [x] Add bird animations
+- [ ] Implement pipes and collision bounds
+- [ ] Implement random pipe positioning
+- [ ] Implement background and foreground infinite scroll
+
 ## License
 
 Copyright 2018 Matthew Rodriguez, MD Abir, Anthony Chen
