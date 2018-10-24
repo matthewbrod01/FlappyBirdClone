@@ -10,7 +10,7 @@ Here's a walkthrough of implemented functionalities:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## User Stories
+## Functionalities
 
 The following **required** functionalities are complete:
 
